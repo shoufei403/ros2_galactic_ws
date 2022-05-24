@@ -1,0 +1,5 @@
+repositories:
+  ros2_galactic_tutorials:
+    type: git
+    url: git@github.com:shoufei403/ros2_galactic_tutorials.git
+    version: master
